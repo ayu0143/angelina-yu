@@ -1,6 +1,6 @@
-h1, h2{
+h1, h2, th{
     font-family: "Bree Serif", serif;
 }
-li {
+li, td{
   font-family: "Poiret One", sans-serif;
 }
