@@ -1,9 +1,17 @@
 html {
-
+background-image: url(images/background.png);
 }
+
+body{
+border: solid;
+border-radius: 10px;
+background-color: #FFFFFF;
+}
+
 h1, h2, h3{
         font-family: "Pirata One", system-ui;
 }
+
 p, li {
   font-family: "Cantata One", serif;
 }
