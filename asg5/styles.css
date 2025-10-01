@@ -10,11 +10,26 @@ width: 75%;
 margin: 0 auto;
 }
 
-h1, h2, h3{
+h1 {
         font-family: "Pirata One", system-ui;
         padding: 20px;
         text-align: center;
          font-size: 3em;
+        font-color: #00355A;
+}
+h2 {
+          font-family: "Pirata One", system-ui;
+        padding: 20px;
+        text-align: center;
+         font-size: 2em;
+        font-color: #00355A;
+}
+
+h3 {
+  font-family: "Pirata One", system-ui;
+        padding: 20px;
+        text-align: center;
+         font-size: 1em;
         font-color: #00355A;
 }
 
