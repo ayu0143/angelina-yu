@@ -3,6 +3,11 @@ html {
 	background-color: #410469;
 }
 
+img {
+	text-align: center;
+	border-radius: 5px;
+}
+
 h1, h2 {
 	  font-family: "Borel", cursive;
 	width: 20%;
@@ -25,4 +30,5 @@ body {
 p, li {
 	 font-family: "Jersey 25", sans-serif;
 	font-color: white;
+	font-size: 2em;
 }
