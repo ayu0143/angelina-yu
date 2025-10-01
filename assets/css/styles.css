@@ -1,5 +1,8 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+h1, h2 {
+	  font-family: "Borel", cursive;
+}
+p, li {
+	 font-family: "Jersey 25", sans-serif;
 }
