@@ -13,11 +13,14 @@ margin: 0 auto;
 h1, h2, h3{
         font-family: "Pirata One", system-ui;
         padding: 20px;
+        text-align: center;
+         font-size: 1.5em;
 }
 
 p, li {
   font-family: "Cantata One", serif;
         padding: 20px;
+        font-size: 1.5em;
 }
 
 form {
