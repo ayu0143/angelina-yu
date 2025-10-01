@@ -5,11 +5,12 @@ html {
 
 h1, h2 {
 	  font-family: "Borel", cursive;
-	width: 80%;
+	width: 20%;
     padding: 20px;
     margin: 0 auto;
     border-radius: 10px;
     background-color: #F473AF;
+	text-align: center;
 }
 
 body {
