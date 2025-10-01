@@ -15,36 +15,36 @@ h1 {
         padding: 20px;
         text-align: center;
          font-size: 3em;
-        font-color: #00355A;
+        color: #00355A;
 }
 h2 {
           font-family: "Pirata One", system-ui;
         padding: 20px;
         text-align: center;
          font-size: 2em;
-        font-color: #00355A;
+        color: #00355A;
 }
 
 h3 {
   font-family: "Pirata One", system-ui;
         padding: 20px;
         text-align: center;
-         font-size: 1em;
-        font-color: #00355A;
+         font-size: 1.5em;
+        color: #00355A;
 }
 
 p {
   font-family: "Cantata One", serif;
         padding: 20px;
-        font-size: 1.5em;\
-        font-color: #0077BF;
+        font-size: 1.5em;
+        color: #0077BF;
 }
 
 li {
 font-family: "Cantata One", serif;
         padding: 20px;
         font-size: 1.5em;
-        font-color: #007381;
+        color: #007381;
 }
 
 form {
