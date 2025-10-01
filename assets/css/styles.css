@@ -1,8 +1,27 @@
 /* styles.css */
+html {
+	background-color: #410469;
+}
 
 h1, h2 {
 	  font-family: "Borel", cursive;
+	width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #F473AF;
 }
+
+body {
+	width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #830D96;
+    background-color: #CB26AD;
+}
+	
 p, li {
 	 font-family: "Jersey 25", sans-serif;
+	font-color: white;
 }
