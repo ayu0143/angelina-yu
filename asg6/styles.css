@@ -1,3 +1,7 @@
+html {
+background-image: url(images/double-bubble-outline.webp);
+}
+
 h1, h2, h3 {
   font-family: "BBH Sans Bogle", sans-serif;
 }
