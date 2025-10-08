@@ -13,13 +13,13 @@ body {
 
 h1, h2, h3 {
   font-family: "BBH Sans Bogle", sans-serif;
-  botter-bottom: 2px solid #0000000;
+  border-bottom: 2px solid #0000000;
   font-size: 2em;
-  padding: 15px;
+  padding: 0 15px;
 }
 
 p, li {
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
-  padding: 15px;
+  padding: 0 15px;
 }
