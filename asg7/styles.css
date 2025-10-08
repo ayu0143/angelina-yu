@@ -1,0 +1,36 @@
+/* alkalami-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alkalami';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/alkalami-v8-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* allerta-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Allerta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/allerta-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1, h2, h3 {
+  font-family: 'Alkalami';
+  border-bottom: 3px dotted;
+  margin: 15px 0 5px 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+p, ul {
+  font-family: 'Allerta';
+}
+
+aside {
+  width: 30%;
+  float: right;
+  margin: 10px;
+  padding: 10px 20px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
