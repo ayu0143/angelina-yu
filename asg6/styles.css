@@ -15,6 +15,7 @@ h1, h2, h3 {
   font-family: "BBH Sans Bogle", sans-serif;
   border-bottom: 3px solid;
   padding: 0 15px;
+  letter-spacing: 3px;
 }
 
 h1 {
