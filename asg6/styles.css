@@ -14,12 +14,13 @@ body {
 h1, h2, h3 {
   font-family: "BBH Sans Bogle", sans-serif;
   border-bottom: 3px solid;
-  padding: 0 15px;
+  padding: -10px 15px;
   letter-spacing: 3px;
 }
 
 h1 {
   font-size: 6em;
+  padding-top: 20px;
 }
 
 h2 {
