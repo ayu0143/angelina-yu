@@ -10,10 +10,10 @@ img {
 h1, h2 {
 	  font-family: "Borel", cursive;
 	width: 20%;
-    padding: 20px;
     margin: 0 auto;
     background-color: #F473AF;
 	border: 2px dotted #FFFFFF;
+	border-radius: 5px;
 	text-align: center;
 }
 
