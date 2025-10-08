@@ -22,16 +22,19 @@ h1 {
   font-size: 6em;
   padding-top: 20px;
   text-align: center;
+  color: #550000;
 }
 
 h2 {
   font-size: 3em;
   border-bottom: 3px solid;
   margin: 10px 10px;
+  color: #A2574F;
 }
 
 h3 {
   font-size: 2em;
+  color: #FFE5B4;
 }
   
 p, li {
