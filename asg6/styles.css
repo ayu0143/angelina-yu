@@ -3,11 +3,11 @@ background-image: url(images/double-bubble-outline.webp);
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #F2F0EF;
   margin: 0 auto;
   border: 1px;
   box-shadow: 5px 5px 10px;
-  width: 70%;
+  width: 80%;
   border-radius: 3px;
 }
 
@@ -15,9 +15,11 @@ h1, h2, h3 {
   font-family: "BBH Sans Bogle", sans-serif;
   botter-bottom: 2px solid #0000000;
   font-size: 2em;
+  padding: 15px;
 }
 
 p, li {
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
+  padding: 15px;
 }
