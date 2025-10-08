@@ -13,6 +13,7 @@ h1, h2 {
     padding: 20px;
     margin: 0 auto;
     background-color: #F473AF;
+	border: 2px dotted #FFFFFF;
 	text-align: center;
 }
 
