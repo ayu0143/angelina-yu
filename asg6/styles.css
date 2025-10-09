@@ -1,6 +1,7 @@
 html {
 background-image: url(images/double-bubble-outline.webp);
 }
+/*Persoanlly I really like the background, it gives it a modern tone*/
 
 body {
   background-color: #F2F0EF;
@@ -31,15 +32,22 @@ h2 {
   margin: 10px 10px;
   color: #A2574F;
 }
+/*I wanted to do a border-bottom on the h2 to create the sections of the hats*/
 
 h3 {
   font-size: 2em;
   color: #FFE5B4;
 }
+/*I wanted to keep the colors a little more modern, so I wanted to have complimentary colors to the creme background*/
   
 p, li {
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
   padding: 0 15px;
 }
+
+.image-wrapper {
+    float: right; 
+   margin-left: 20px; 
+  }
 
