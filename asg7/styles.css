@@ -21,10 +21,12 @@ h1, h2, h3 {
   margin: 15px 0 5px 0;
   text-align: center;
   overflow: hidden;
+  color: #00A3A9;
 }
 
 p, ul {
   font-family: 'Allerta';
+  color: #FFFFFF;
 }
 
 aside {
@@ -35,8 +37,14 @@ aside {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 }
 
-img (
+img {
   text-align: center;
-)
+}
 
-body (
+body {
+border: solid;
+border-radius: 10px;
+background-color: #008C8B;
+width: 75%;
+margin: 0 auto;
+}
