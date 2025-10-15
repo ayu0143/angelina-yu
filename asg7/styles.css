@@ -45,6 +45,7 @@ h1, h2, h3 {
 p, ul {
   font-family: 'Allerta';
   color: #FFFFFF;
+  padding: 20px;
 }
 
 aside {
