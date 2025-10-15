@@ -43,6 +43,9 @@ h1, h2, h3 {
   padding-top: 10px;
 }
 
+/*I wanted to make sure the headings could still pop out on the colored background, so I used a background for them.
+I also wanted to adjust the padding on top so it was more even and centered.*/
+
 h1 {
   font-size: 4.5em;
 }
@@ -68,4 +71,4 @@ aside {
   padding: 10px 20px;
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 }
-
+/*This is only for the presidential campaign assignment.*/
