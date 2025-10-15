@@ -41,6 +41,7 @@ h1, h2, h3 {
   color: #00A3A9;
   background-color: #006770;
   padding-top: 10px;
+  letter-spacing: 2px;
 }
 
 /*I wanted to make sure the headings could still pop out on the colored background, so I used a background for them.
