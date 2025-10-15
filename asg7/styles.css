@@ -22,6 +22,7 @@ h1, h2, h3 {
   text-align: center;
   overflow: hidden;
   color: #00A3A9;
+  background-color: #006770;
 }
 
 p, ul {
@@ -45,6 +46,6 @@ body {
 border: solid;
 border-radius: 10px;
 background-color: #008C8B;
-width: 75%;
+width: 85%;
 margin: 0 auto;
 }
