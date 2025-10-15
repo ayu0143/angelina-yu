@@ -43,8 +43,7 @@ h1, h2, h3 {
   letter-spacing: 2px;
 }
 
-/*I wanted to make sure the headings could still pop out on the colored background, so I used a background for them.
-I also wanted to adjust the padding on top so it was more even and centered.*/
+/*I wanted to adjust the padding on top so it was more even and centered.*/
 
 h1 {
   font-size: 4.5em;
