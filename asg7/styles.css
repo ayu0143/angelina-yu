@@ -15,6 +15,14 @@
   src: url('fonts/allerta-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+body {
+border: solid;
+border-radius: 10px;
+background-color: #008C8B;
+width: 85%;
+margin: 0 auto;
+}
+
 h1, h2, h3 {
   font-family: 'Alkalami';
   border-bottom: 3px dotted;
@@ -42,10 +50,3 @@ img {
   text-align: center;
 }
 
-body {
-border: solid;
-border-radius: 10px;
-background-color: #008C8B;
-width: 85%;
-margin: 0 auto;
-}
