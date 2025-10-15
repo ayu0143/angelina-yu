@@ -16,11 +16,11 @@
 }
 
 body {
+margin: 0 auto;
+background-color: #003B46;
 border: solid;
 border-radius: 10px;
-background-color: #008C8B;
 width: 85%;
-margin: 0 auto;
 }
 
 h1, h2, h3 {
