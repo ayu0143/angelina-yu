@@ -51,7 +51,7 @@ h1, .text-size-h1 {
   font-weight: 700;
   margin-top: 0;
   font-size: 3.05em;
-  bottom-border: 2px black;
+  border-bottom: 2px solid #240B36;
 }
 
 h2, .text-size-h2 { font-size: 2.44em; }
