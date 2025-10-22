@@ -30,12 +30,19 @@ body {
   margin: 0 auto;
 }
 
-p, li{
+p {
   font-size: 1em;
    color: #F2A359;
   padding: 20px;
   font-family: 'Glory';
    text-align: center;
+}
+
+li {
+  font-size: 1em;
+   color: #F2A359;
+  padding: 20px;
+  font-family: 'Glory';
 }
 
 h1, h2, h3, h4, h5 {
@@ -44,6 +51,7 @@ h1, h2, h3, h4, h5 {
   line-height: 1.15;
   text-align: center;
   color: #F5F3BB;
+  border-bottom: 2px solid #240B36;
 }
 
 h1, .text-size-h1 {
@@ -51,7 +59,7 @@ h1, .text-size-h1 {
   font-weight: 700;
   margin-top: 0;
   font-size: 3.05em;
-  border-bottom: 2px solid #240B36;
+
 }
 
 h2, .text-size-h2 { font-size: 2.44em; }
