@@ -51,7 +51,6 @@ h1, h2, h3, h4, h5 {
   line-height: 1.15;
   text-align: center;
   color: #F5F3BB;
-  border-bottom: 2px solid #A4031F;
 }
 
 h1, .text-size-h1 {
@@ -60,9 +59,12 @@ h1, .text-size-h1 {
   margin-top: 0;
   font-size: 3.05em;
   text-transform: uppercase;
+   border-bottom: 2px solid #A4031F;
 }
 
-h2, .text-size-h2 { font-size: 2.44em; }
+h2, .text-size-h2 { font-size: 2.44em; 
+                   border-bottom: 2px solid #A4031F;
+                  }
 
 h3, .text-size-h3 { font-size: 1.95em; }
 
