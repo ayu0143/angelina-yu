@@ -14,7 +14,7 @@ h1, h2 {
     margin: 0 auto;
 	padding-top: 15px;
     background-color: #545677;
-	border: 2px dotted #FFFFFF;
+	border: 2px dotted #011C27;
 	border-radius: 5px;
 	text-align: center;
 	color: #EB9FEF;
@@ -25,7 +25,7 @@ body {
     padding: 20px;
     margin: 25px auto;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px #830D96;
+    box-shadow: 10px 10px 10px #011C27;
     background-color: #FECEE9;
 }
 	
