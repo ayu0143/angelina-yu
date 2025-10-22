@@ -1,6 +1,6 @@
 /* styles.css */
 html {
-	background-color: #410469;
+	background-color: #03254E;
 }
 
 img {
@@ -13,10 +13,11 @@ h1, h2 {
 	width: 20%;
     margin: 0 auto;
 	padding-top: 15px;
-    background-color: #F473AF;
+    background-color: #545677;
 	border: 2px dotted #FFFFFF;
 	border-radius: 5px;
 	text-align: center;
+	color: #EB9FEF;
 }
 
 body {
@@ -25,11 +26,11 @@ body {
     margin: 25px auto;
     border-radius: 10px;
     box-shadow: 10px 10px 10px #830D96;
-    background-color: #CB26AD;
+    background-color: #FECEE9;
 }
 	
 p, li {
 	 font-family: "Jersey 25", sans-serif;
-	font-color: white;
+	color: #011C27;
 	font-size: 2em;
 }
