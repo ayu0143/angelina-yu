@@ -26,18 +26,21 @@ body {
   font-weight: false;
   line-height: 1.65;
   background-color: #240B36;
+  width: 75%;
 }
 
 p {
   font-size: 1em;
    color: #F2A359
   padding: 20px;
+  font-family: 'Glory';
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Girassol';
   font-weight: true;
   line-height: 1.15;
+  text-align: center;
 }
 
 h1, .text-size-h1 {
