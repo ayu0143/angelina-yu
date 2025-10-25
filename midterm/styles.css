@@ -22,10 +22,11 @@
   justify-content: center;
   flex-direction: row;
   gap: 20px;
+  background-color: #372e29;
  }
 
  nav ul li {
-  background-color: dodgerblue;
+  background-color: #726255;
   padding: 5px;
   border-radius: 5px;
  }
@@ -155,4 +156,7 @@ small,
   background-color: #f0c75e;
 }
 
-
+/* Confused on how to make img all the same sizes and align with text like websites do.
+Why are all headings yellow.
+How do I take away the white in between sections.
+How do I even make a footer? */
