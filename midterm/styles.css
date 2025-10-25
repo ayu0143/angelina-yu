@@ -32,7 +32,6 @@
 
 html, body {
   margin: 0;
-  padding: 0;
 }
 
 html {font-size: 16px; 
@@ -88,6 +87,14 @@ small,
 
 .stuff {
   background-color: #1a742a;
+}
+
+.stuff img {
+  width: 400px;
+  height: 600px;
+  object-fit: cover;
+  object-fit: contain;
+  object-position: center, top, 50% 50%;
 }
 
 .stay {
