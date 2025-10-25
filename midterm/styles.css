@@ -91,6 +91,10 @@ small,
   background-color: #740001;
 }
 
+.about h2 {
+  background-color: #ac0001
+}
+
 .stuff {
   background-color: #1a742a;
 }
@@ -113,8 +117,16 @@ small,
   gap: 20px;
 }
 
+.stuff h2 {
+  background-color: #2a623d;
+}
+
 .stay {
   background-color: #0c1a40;
+}
+
+.stay h2 {
+  background-color: #222f5b;
 }
 
 .eat {
@@ -137,6 +149,10 @@ small,
   justify-content: center;
   flex-direction: row;
   gap: 20px;
+}
+
+.eat h2 {
+  background-color: #f0c75e;
 }
 
 
