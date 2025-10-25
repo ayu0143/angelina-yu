@@ -42,10 +42,14 @@ body {
   line-height: 1.65;
 }
 
-p {
+p, li {
   font-family: 'Arya'; 
   font-size: 1em;
   color: #FFFFFF;
+}
+
+p {
+ padding: 30px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -53,6 +57,7 @@ h1, h2, h3, h4, h5 {
   font-weight: true;
   line-height: 1.15;
   color: #FFFFFF;
+  padding: 30px;
 }
 
 h1,
@@ -95,7 +100,8 @@ small,
   object-fit: cover;
   object-fit: contain;
   object-position: center, top, 50% 50%;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 50px;
 }
 
 .stuff ul {
@@ -112,6 +118,16 @@ small,
 
 .eat {
   background-color: #eeb939;
+}
+
+.eat img {
+  width: 400px;
+  height: 600px;
+  object-fit: cover;
+  object-fit: contain;
+  object-position: center, top, 50% 50%;
+  justify-content: center;
+  gap: 50px;
 }
 
 .eat ul {
