@@ -34,7 +34,6 @@
 html {font-size: 16px;}
 
 body {
-  font-family: 'Open Sans', sans-serif;
   font-weight: false;
   line-height: 1.65;
 }
@@ -42,14 +41,14 @@ body {
 p {
   font-family: 'Arya'; 
   font-size: 1em;
-  color: white;
+  color: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5 {
   font-family: 'Bokor', sans-serif;
   font-weight: true;
   line-height: 1.15;
-  color: white;
+  color: #FFFFFF;
 }
 
 h1,
@@ -80,18 +79,22 @@ small,
 
 .about {
   background-color: #740001;
+  margin: 0 0;
 }
 
 .stuff {
   background-color: #1a742a;
+  margin: 0 0;
 }
 
 .stay {
   background-color: #0c1a40;
+  margin: 0 0;
 }
 
 .eat {
   background-color: #eeb939;
+  margin: 0 0;
 }
 
 
