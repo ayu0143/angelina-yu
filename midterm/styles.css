@@ -23,6 +23,7 @@
   flex-direction: row;
   gap: 20px;
   background-color: #372e29;
+   padding: 20px;
  }
 
  nav ul li {
@@ -33,6 +34,10 @@
 
 .full-page-image {
   position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh; 
   object-fit: cover; 
   }
   
