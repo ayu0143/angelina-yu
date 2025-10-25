@@ -42,12 +42,14 @@ body {
 p {
   font-family: 'Arya'; 
   font-size: 1em;
+  color: white;
 }
 
 h1, h2, h3, h4, h5 {
   font-family: 'Bokor', sans-serif;
   font-weight: true;
   line-height: 1.15;
+  color: white;
 }
 
 h1,
@@ -76,16 +78,20 @@ small,
   font-size: 0.64em;
 }
 
-.stuff {
+.about {
   background-color: #740001;
 }
 
-.stay {
+.stuff {
   background-color: #1a742a;
 }
 
-.eat {
+.stay {
   background-color: #0c1a40;
+}
+
+.eat {
+  background-color: #eeb939;
 }
 
 
