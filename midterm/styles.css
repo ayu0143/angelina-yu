@@ -91,7 +91,7 @@ small,
   background-color: #740001;
 }
 
-.about h2 {
+.about h2, h1 {
   background-color: #ac0001
 }
 
@@ -117,7 +117,7 @@ small,
   gap: 20px;
 }
 
-.stuff h2 {
+.stuff h2, h1 {
   background-color: #2a623d;
 }
 
@@ -125,7 +125,7 @@ small,
   background-color: #0c1a40;
 }
 
-.stay h2 {
+.stay h2, h1 {
   background-color: #222f5b;
 }
 
@@ -151,7 +151,7 @@ small,
   gap: 20px;
 }
 
-.eat h2 {
+.eat h2, h1 {
   background-color: #f0c75e;
 }
 
