@@ -115,7 +115,7 @@ small,
   height: 600px;
   object-fit: cover;
   object-fit: contain;
-  object-position: center, top, 50% 50%;
+  object-position: top, 50% 50%;
   justify-content: space-around;
   align-content: center;
   gap: 50px;
