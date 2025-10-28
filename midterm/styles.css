@@ -46,10 +46,7 @@ html, body {
 
 html {
   font-size: 16px; 
-  background-image: url(images/brownbg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover; 
-  background-position: center; 
+  background-color: #281b0d;
 }
 
 body {
