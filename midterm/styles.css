@@ -4,7 +4,7 @@
   font-family: 'Bokor'; 
   font-style: normal; 
   font-weight: 400; 
-  src: url('fonts/bokor-v32-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ 
+  src: url('font/bokor-v32-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ 
 } 
 
 /* arya-regular - latin */ 
@@ -13,7 +13,7 @@
   font-family: 'Arya'; 
   font-style: normal; 
   font-weight: 400; 
-  src: url('fonts/arya-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ 
+  src: url('font/arya-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ 
 } 
 
  nav ul {
