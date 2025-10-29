@@ -117,10 +117,10 @@ small,
 
 .stuff {
   background-color: #1a742a;
-  display: flex;
 }
 
 .stuff img {
+  display: flex;
   width: 400px;
   height: 600px;
   object-fit: cover;
