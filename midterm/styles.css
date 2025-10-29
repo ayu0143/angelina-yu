@@ -176,7 +176,19 @@ small,
   background-color: #f0c75e;
 }
 
-.eat .stuff .stay a {
+.stuff a {
+ text-align: center;
+  font-size: 1.5em;
+  padding: 3px;
+}
+
+.eat  a {
+  text-align: center;
+  font-size: 1.5em;
+  padding: 3px;
+}
+
+.stay a {
   text-align: center;
   font-size: 1.5em;
   padding: 3px;
