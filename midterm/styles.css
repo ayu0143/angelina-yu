@@ -117,6 +117,7 @@ small,
 
 .stuff {
   background-color: #1a742a;
+  display: flex;
 }
 
 .stuff img {
