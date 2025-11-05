@@ -173,6 +173,10 @@ small,
   background-color: #eeb939;
 }
 
+.eat-img {
+  display: flex;
+}
+
 .eat img {
   width: 400px;
   height: 600px;
