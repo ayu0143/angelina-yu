@@ -176,15 +176,14 @@ small,
 .eat-img-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px; /* spacing between images */
-  justify-content: center;
+  gap: 16px; 
+  justify-content: space-around;
   align-items: center;
 }
 
 .eat-img {
   width: 300px;
   height: 200px;
-  overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
