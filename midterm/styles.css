@@ -202,9 +202,6 @@ small,
   background-color: #f0c75e;
 }
 
-.eat a {
-  padding-bottom: 15px;
-}
 
 .stuff a {
  text-align: center;
@@ -212,10 +209,10 @@ small,
   padding: 3px;
 }
 
-.eat  a {
+.eat a {
   text-align: center;
   font-size: 1.5em;
-  padding: 3px;
+  padding: 15px;
 }
 
 .stay a {
