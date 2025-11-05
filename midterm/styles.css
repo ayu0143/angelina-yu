@@ -189,12 +189,6 @@ small,
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.eat-img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
 .eat ul {
   list-style: none;
   display: flex;
