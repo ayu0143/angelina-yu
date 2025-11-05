@@ -183,7 +183,7 @@ small,
   align-items: center;
 }
 
-.eat-img {
+.eat-img figure {
   border-radius: 8px;
 }
 
@@ -217,30 +217,30 @@ small,
 
 /* Footer */
 .hogwarts-footer {
-    background-color: #4a4a4a; /* Dark charcoal/stone color */
-    color: #f0e68c; /* Light gold/parchment color for text */
+    background-color: #4a4a4a; 
+    color: #f0e68c; 
     padding: 40px 20px 10px;
-    font-family: 'Georgia', serif; /* A classic, magical-feeling font */
-    border-top: 3px solid #7d0a0a; /* A Gryffindor red border for flair */
+    font-family: 'Georgia', serif; 
+    border-top: 3px solid #7d0a0a;
 }
 
 .footer-content {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap; /* Allows sections to wrap on smaller screens */
+    flex-wrap: wrap; 
     max-width: 1200px;
     margin: 0 auto;
-    border-bottom: 1px solid rgba(240, 230, 140, 0.3); /* Subtle separator line */
+    border-bottom: 1px solid rgba(240, 230, 140, 0.3); 
     padding-bottom: 20px;
 }
 
 .footer-logo, .footer-links, .footer-social {
-    width: 30%; /* Distribute space evenly */
+    width: 30%; 
     margin-bottom: 20px;
 }
 
 .footer-logo h3 {
-    color: #fffacd; /* Lighter gold/cream for the main title */
+    color: #fffacd; 
     margin-bottom: 5px;
 }
 
@@ -257,7 +257,7 @@ small,
 }
 
 .footer-links ul li a {
-    color: #cccccc; /* Slightly muted link color */
+    color: #cccccc; 
     text-decoration: none;
     display: block;
     margin-bottom: 5px;
@@ -265,7 +265,7 @@ small,
 }
 
 .footer-links ul li a:hover {
-    color: #fffacd; /* Hover effect makes the link shine */
+    color: #fffacd; 
 }
 
 .footer-social .social-icons .icon {
@@ -278,7 +278,7 @@ small,
     text-align: center;
     padding-top: 15px;
     font-size: 0.8em;
-    color: #a9a9a9; /* Darker text for less emphasis */
+    color: #a9a9a9; 
 }
 
 /* Media */
