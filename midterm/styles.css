@@ -233,6 +233,10 @@ small,
     border-top: 3px solid #7d0a0a;
 }
 
+.page img {
+  padding-left: 20px
+}
+
 .footer-content {
     display: flex;
     justify-content: space-between;
