@@ -150,7 +150,7 @@ small,
   display: flex;
   justify-content: center;
   flex-direction: row;
-  gap: 425px;
+  gap: 400px;
 }
 
 .stuff h2, h1 {
