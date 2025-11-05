@@ -202,6 +202,10 @@ small,
   background-color: #f0c75e;
 }
 
+.eat a {
+  padding-bottom: 15px;
+}
+
 .stuff a {
  text-align: center;
   font-size: 1.5em;
