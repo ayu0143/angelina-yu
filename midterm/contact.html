@@ -16,31 +16,40 @@
 			<li><a href="contact.html">Contact</a></li>
 		</ul>
 	</nav>
+	
 		<form>
-<h1>Contact Form</h1>
-			<section class="name">
-		<label for="name">First and Last Name</label>
-		<input type="text" name="name" id="name">
-		</section>
-			<section class="number">
-		<label for="number">Phone Number #</label>
-		<input type="text" name="number" id="number">
-		</section>
-			<section class="email">
-		<label for="email">Email</label>
-		<input type="text" name="email" id="email">
-		</section>
-		<section class="comments">
-			 <label for="extra">Any dietary restrictions?</label>
-          <br>
-					<textarea id="comments" name="comments" rows="3" cols="40">Any Comments?</textarea>
-		</section>
-		 <section class="submission">
-          <form>
-            <input type="submit" value="Submit">
-            </form>
-        </section>
-	</form>
+<h1>Contact Hogwarts!</h1>
+			<div class="simple-form-container">
+
+    <form action="/submit-registration" method="POST">
+        
+        <div class="field-group">
+            <label for="fullName">First and Last Name:</label>
+            <input type="text" name="fullName" id="fullName" required>
+        </div>
+        
+        <div class="field-group">
+            <label for="phone">Phone Number:</label>
+            <input type="tel" name="phone" id="phone">
+        </div>
+        
+        <div class="field-group">
+            <label for="email">Email Address:</label>
+            <input type="email" name="email" id="email" required>
+        </div>
+        
+        <div class="field-group">
+            <label for="comments">Special Requests / Comments:</label>
+            <textarea id="comments" name="comments" rows="4"></textarea>
+        </div>
+        
+        <button type="submit" class="simple-submit-button">
+            Submit Details
+        </button>
+    </form>
+				
+</div>
+			
 	<footer class="hogwarts-footer">
     <div class="footer-content">
         <div class="footer-logo">
