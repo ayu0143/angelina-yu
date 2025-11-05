@@ -197,6 +197,15 @@ small,
 }
 
 
+.eat ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 20px;
+}
+
+
 .stuff a {
  text-align: center;
   font-size: 1.5em;
