@@ -201,7 +201,8 @@ small,
   display: flex;
   justify-content: center;
   flex-direction: row;
-  gap: 450px;
+  gap: 425px;
+  padding-bottom: 10px;
 }
 
 
