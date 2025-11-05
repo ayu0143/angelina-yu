@@ -124,6 +124,7 @@ small,
 /* Homepage */
 .about {
   background-color: #740001;
+  padding-bottom: 20px;
 }
 
 .about h2, h1 {
@@ -136,12 +137,8 @@ small,
 }
 
 .stuff img {
-  display: flex;
-  width: 400px;
-  height: 600px;
-  object-fit: cover;
-  object-fit: contain;
-  object-position: center, top, 50% 50%;
+  width: 550px;
+  height: 400px;
   justify-content: space-around;
   align-content: center;
   gap: 50px;
@@ -152,7 +149,7 @@ small,
   display: flex;
   justify-content: center;
   flex-direction: row;
-  gap: 20px;
+  gap: 425px;
 }
 
 .stuff h2, h1 {
