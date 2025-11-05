@@ -151,6 +151,7 @@ small,
   justify-content: center;
   flex-direction: row;
   gap: 400px;
+  padding-right: 80px;
 }
 
 .stuff h2, h1 {
