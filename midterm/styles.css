@@ -176,6 +176,7 @@ small,
 
 .eat-img-container {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   gap: 30px; 
   justify-content: space-around;
@@ -189,14 +190,6 @@ small,
 .eat-img img{
   width: 550px;
   height: 400px;
-}
-
-.eat ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  gap: 20px;
 }
 
 .eat h2, h1 {
