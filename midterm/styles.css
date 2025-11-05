@@ -171,6 +171,7 @@ small,
 /* Dining */
 .eat {
   background-color: #eeb939;
+  padding-bottom: 20px;
 }
 
 .eat-img-container {
@@ -212,7 +213,7 @@ small,
 .eat a {
   text-align: center;
   font-size: 1.5em;
-  padding: 15px;
+  padding: 3px;
 }
 
 .stay a {
