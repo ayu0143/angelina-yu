@@ -81,7 +81,7 @@ a:visited {
 }
 
 a:hover {
-    color: #7d6c5d; 
+    color: #fffacd; 
     text-decoration: underline; 
 }
 
@@ -278,7 +278,8 @@ small,
 }
 
 .footer-links ul li a:hover {
-    color: #fffacd; 
+  color: #fffacd;
+  text-decoration: underline; 
 }
 
 .footer-social .social-icons .icon {
