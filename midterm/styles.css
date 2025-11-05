@@ -19,7 +19,7 @@
  nav ul {
   list-style: none;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-direction: row;
   gap: 20px;
   background-color: #372e29;
@@ -30,6 +30,10 @@
   padding: 5px;
   border-radius: 5px;
  }
+
+nav li {
+  width: 15%;
+}
 
 .full-page-image {
   top: 0;
