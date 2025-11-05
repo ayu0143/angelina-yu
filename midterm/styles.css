@@ -113,7 +113,7 @@ small,
 }
 
 .about h2, h1 {
-  background-color: #ac0001
+  background-color: #ac0001;
 }
 
 /* Activities */
@@ -291,10 +291,10 @@ small,
     max-width: 500px;
     margin: 30px auto;
     padding: 20px;
-    background-color: #f7f7f7; /* Light grey background */
+    background-color: #ac0001;
     border: 1px solid #ccc;
     border-radius: 5px;
-    font-family: sans-serif;
+    font-family: 'Arya'; 
 }
 
 .contact-form h2 {
@@ -322,13 +322,13 @@ small,
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    box-sizing: border-box; /* Ensures padding is included in the width */
+    box-sizing: border-box; 
     font-size: 1em;
 }
 
 .field-group input:focus,
 .field-group textarea:focus {
-    border-color: #007bff; /* Standard blue focus */
+    border-color: #007bff;
     outline: none;
 }
 
@@ -336,7 +336,7 @@ small,
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #007bff; /* Standard blue button */
+    background-color: #740001; 
     color: white;
     border: none;
     border-radius: 4px;
@@ -346,5 +346,5 @@ small,
 }
 
 .submit-button:hover {
-    background-color: #0056b3;
+    background-color: #4d0001;
 }
