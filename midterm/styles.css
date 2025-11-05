@@ -196,13 +196,12 @@ small,
   background-color: #f0c75e;
 }
 
-
 .eat ul {
   list-style: none;
   display: flex;
   justify-content: center;
   flex-direction: row;
-  gap: 150px;
+  gap: 300px;
 }
 
 
