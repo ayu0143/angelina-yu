@@ -138,8 +138,8 @@ small,
 }
 
 .stuff img {
-  width: 30vw;
-  height: 20vh;
+  width: 550px;
+  height: 400px;
   justify-content: space-around;
   align-content: center;
   gap: 50px;
