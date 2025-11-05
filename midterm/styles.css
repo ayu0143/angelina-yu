@@ -134,6 +134,7 @@ small,
 /* Activities */
 .stuff {
   background-color: #1a742a;
+  padding-bottom: 20px;
 }
 
 .stuff img {
@@ -159,6 +160,7 @@ small,
 /* Getting Sorted */
 .stay {
   background-color: #0c1a40;
+  padding-bottom: 20px;
 }
 
 .stay h2, h1 {
