@@ -1,19 +1,19 @@
-/* big-shoulders-regular - latin */
+/* erica-one-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Big Shoulders';
+  font-family: 'Erica One';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/big-shoulders-v4-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/erica-one-v29-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-/* epilogue-regular - latin */
+/* mitr-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Epilogue';
+  font-family: 'Mitr';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/epilogue-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/mitr-v13-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 html {
@@ -31,8 +31,9 @@ body {
     padding: 8px;
 }
 
+/*Flexbox */
 .boxes {
-      display: -webkit-flex;
+  display: -webkit-flex;
   display: flex;
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
@@ -51,9 +52,61 @@ body {
   flex-flow: column;
 }
 
+/* Images */
 img {
   max-width: 300px; 
   height: auto;   
 )
 
+/* Type Scale Generator */
+html {font-size: 16px;}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+}
+
+p {
+  font-size: 1em;
+  font-family: 'Mitr';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {  
+  font-family: 'Erica One', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+}
+
+h1,
+.text-size-h1 {
+  font-family: 'Erica One', sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 4.21em;
+}
+
+h2,
+.text-size-h2 { font-size: 3.16em; }
+
+h3,
+.text-size-h3 { font-size: 2.37em; }
+
+h4,
+.text-size-h4 { font-size: 1.78em; }
+
+h5,
+.text-size-h5 { font-size: 1.33em; }
+
+.text-caption { font-size: 0.75em; }
+
+small,
+.text-small {
+  font-size: 0.56em;
+}
+              
 
