@@ -24,4 +24,9 @@ body {
   flex-flow: column;
 }
 
+img {
+  max-width: 300px; 
+  height: auto;   
+)
+
 
