@@ -35,6 +35,7 @@ body {
 
 .intro h1 {
     font-family: 'Erica One';
+  letter-spacing: 3px;
 }
 
 /*Flexbox */
@@ -64,6 +65,7 @@ body {
 
 .boxes h2 {
   font-family: 'Erica One';
+  letter-spacing: 3px;
 }
 
 /* Images */
