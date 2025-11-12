@@ -1,8 +1,16 @@
+html {
+
+}
 
 body {
     padding: 20px;
     margin: 0 auto;
 } 
+
+.intro {
+    color: #f4c095;
+    border-radius: 3px;
+}
 
 .boxes {
       display: -webkit-flex;
