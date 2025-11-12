@@ -33,6 +33,10 @@ body {
   font-family: 'Mitr';
 }
 
+.intro h1 {
+    font-family: 'Erica One';
+}
+
 /*Flexbox */
 .boxes {
   display: -webkit-flex;
@@ -52,6 +56,14 @@ body {
   display: flex;
   -webkit-flex-flow: column;
   flex-flow: column;
+}
+
+.boxes p {
+  font-family: 'Mitr';
+}
+
+.boxes h2 {
+  font-family: 'Erica One';
 }
 
 /* Images */
