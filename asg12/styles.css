@@ -42,7 +42,14 @@ h5 {
   line-height: 1.15;
 }
 
-h1 {
+.heading {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;          
+}
+
+.heading h1{
   font-family: 'Orelega One', sans-serif;
   font-weight: 700;
   text-align: center;
