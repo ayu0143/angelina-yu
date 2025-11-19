@@ -31,7 +31,7 @@ body {
   display: grid;
   grid-template-columns: 250px 250px;
   grid-template-rows: repeat(3, 450px);
-  gap: 20px;
+  gap: 60px;
   margin: 0 auto;
   background-color: #dde2c6;
   color: #090c02;
