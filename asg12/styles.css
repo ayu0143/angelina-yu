@@ -36,7 +36,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   padding: 20px;
-  gap: 100px;
+  gap: 75px;
   margin: 40px auto;
   background-color: #dde2c6;
   color: #090c02;
