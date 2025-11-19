@@ -31,8 +31,16 @@ body {
   display: grid;
   grid-template-columns: 250px 250px;
   grid-template-rows: repeat(3, 450px);
-  gap: 20px;
+  gap: 30px;
   margin-top: 44px;
+  background-color: #bbc5aa;
+  color: #090c02;
+  border-radius: 3px;
+}
+
+img {
+  width: 300px;
+  height: auto;
 }
 
 p {
