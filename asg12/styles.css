@@ -47,6 +47,8 @@ h1 {
   font-weight: 700;
   margin-top: 0;
   font-size: 4.21em;
+  background-color: #a72608;
+  border-radius: 3px;
 }
 
 h2 {
