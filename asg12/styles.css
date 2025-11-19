@@ -27,6 +27,11 @@ body {
   line-height: 1.65;
 }
 
+.container {
+  min-width: 500px;
+  margin: auto;
+}
+
 .main {
   display: grid;
   grid-template-columns: 250px 250px;
