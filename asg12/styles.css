@@ -1,25 +1,65 @@
-/* 
-      .--..--..--..--..--..--.
-    .' \  (`._   (_)     _   \
-  .'    |  '._)         (_)  |
-  \ _.')\      .----..---.   /
-  |(_.'  |    /    .-\-.  \  |
-  \     0|    |   ( O| O) | o|
-   |  _  |  .--.____.'._.-.  |
-   \ (_) | o         -` .-`  |
-    |    \   |`-._ _ _ _ _\ /
-    \    |   |  `. |_||_|   |
-    | o  |    \_      \     |     -.   .-.
-    |.-.  \     `--..-'   O |     `.`-' .'
-  _.'  .' |     `-.-'      /-.__   ' .-'
-.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
-`-._  `.  |________/\_____|    `-.'
-   .'   ).| '=' '='\/ '=' |
-   `._.`  '---------------'
-           //___\   //___\
-             ||       ||
-             ||_.-.   ||_.-.
-            (_.--__) (_.--__)
-       
+/* orelega-one-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Orelega One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/orelega-one-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* play-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Play';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/play-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
- Insert all your glorious CSS styles below! */
+/* Type Scale Generator */
+
+html {font-size: 16px;
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1001%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(187%2c 197%2c 170%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c461.905C89.615%2c482.933%2c187.795%2c462.428%2c266.363%2c414.469C345.742%2c366.015%2c402.657%2c285.638%2c432.861%2c197.681C461.536%2c114.175%2c455.478%2c22.698%2c429.916%2c-61.813C406.648%2c-138.741%2c354.934%2c-201.929%2c295.595%2c-256.135C241.314%2c-305.721%2c174.191%2c-332.899%2c105.238%2c-358.407C31.382%2c-385.729%2c-44.531%2c-431.145%2c-120.393%2c-410.022C-196.423%2c-388.852%2c-238.03%2c-310.61%2c-287.441%2c-249.069C-335.02%2c-189.809%2c-386.472%2c-132.115%2c-403.068%2c-57.952C-420.412%2c19.555%2c-421.448%2c105.492%2c-382.239%2c174.563C-344.045%2c241.847%2c-258.399%2c259.356%2c-196.555%2c305.846C-128.302%2c357.155%2c-83.13%2c442.399%2c0%2c461.905' fill='%2398a77e'%3e%3c/path%3e%3cpath d='M1440 847.278C1503.824 842.297 1574.147 887.146 1628.088 852.6700000000001 1682.023 818.198 1672.528 736.463 1702.155 679.722 1734.101 618.54 1807.184 576.013 1808.5729999999999 507.007 1809.983 436.98199999999997 1766.245 367.406 1709.262 326.683 1655.416 288.202 1579.969 318.193 1516.789 298.482 1451.93 278.247 1405.182 205.601 1337.43 210.678 1268.255 215.86200000000002 1214.335 272.678 1168.328 324.595 1121.949 376.93100000000004 1086.516 438.562 1074.449 507.442 1062.153 577.629 1072.339 649.61 1099.876 715.33 1128.007 782.468 1164.184 857.25 1232.049 883.578 1299.007 909.554 1368.398 852.866 1440 847.278' fill='%23dee3d6'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1001'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+     }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+}
+
+p {
+  font-size: 1em;
+      font-family: 'Play';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Orelega One';
+  font-weight: true;
+  line-height: 1.15;
+}
+
+h1 {
+  font-family: 'Orelega One', sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 4.21em;
+}
+
+h2 {
+font-size: 3.16em; }
+
+h3 {
+font-size: 2.37em; }
+
+h4 {
+font-size: 1.78em; }
+
+small,
+.text-small {
+  font-size: 0.56em;
+}
+              
