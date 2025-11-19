@@ -35,7 +35,7 @@ body {
 .main {
   display: grid;
   grid-template-columns: 250px 250px;
-  grid-template-rows: repeat(3, 450px);
+  grid-template-rows: repeat(4, 450px);
   gap: 70px;
   margin: 40px auto;
   background-color: #dde2c6;
