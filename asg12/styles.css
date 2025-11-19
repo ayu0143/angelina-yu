@@ -33,9 +33,10 @@ body {
   grid-template-rows: repeat(3, 450px);
   gap: 30px;
   margin-top: 44px;
-  background-color: #bbc5aa;
+  background-color: #dde2c6;
   color: #090c02;
   border-radius: 3px;
+  padding: 15px;
 }
 
 img {
