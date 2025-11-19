@@ -83,4 +83,6 @@ small,
   border-radius: 3px;
   line-height: 1.5;
   font-family: 'Play';
+  width: 80%;
+  padding: 15px;
 }
