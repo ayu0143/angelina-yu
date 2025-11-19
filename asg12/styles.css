@@ -75,4 +75,12 @@ small,
 .text-small {
   font-size: 0.56em;
 }
-              
+
+.intro {
+  margin: 0 auto;
+  background-color: #dde2c6;
+  color: #090c02;
+  border-radius: 3px;
+  line-height: 1.5;
+  font-family: 'Play';
+}
