@@ -34,14 +34,13 @@ body {
 
 .main {
   display: grid;
-  grid-template-columns: 250px 250px;
-  grid-template-rows: repeat(4, 450px);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  padding: 20px;
   gap: 70px;
   margin: 40px auto;
   background-color: #dde2c6;
   color: #090c02;
   border-radius: 3px;
-  padding: 15px;
   width: 90%;
 }
 
