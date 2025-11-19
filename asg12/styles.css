@@ -32,7 +32,7 @@ body {
   grid-template-columns: 250px 250px;
   grid-template-rows: repeat(3, 450px);
   gap: 60px;
-  margin: 0 auto;
+  margin: 40px auto;
   background-color: #dde2c6;
   color: #090c02;
   border-radius: 3px;
