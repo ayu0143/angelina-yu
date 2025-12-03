@@ -1,58 +1,29 @@
+/* koulen-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Koulen';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/koulen-v30-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* sen-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/sen-v12-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 html {
 background-image: url(images/vintage-wallpaper.webp);
 }
 
 body {
-
-
+	background-color: #37718E;
+	width: 80%;
+	margin: 0 auto;
 }
-
-
-
-h1 {
-
-
-}
-
-h2 {
-
-	
-}
-
-h3 {
-
-	
-}
-
-
-p {
-
-
-}
-
-a {
-
-
-}
-
-ol {
-
-
-}
-
-ul {
-
-
-}
-
-li {
-
-	
-}
-
-
-
-
 
 
 
