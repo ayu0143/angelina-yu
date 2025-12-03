@@ -69,4 +69,25 @@ h2,
 h3,
 .text-size-h3 { font-size: 2.37em; }
 
+/* Grid class */
+
+.jobs {
+    display: grid;
+    grid-template-columns: 1fr; 
+    gap: 20px;
+  }
+
+  .job {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+
+.job img {
+    width: 100%;
+    height: auto;
+    max-height: 150px;
+    object-fit: cover;
+  }
+
         
