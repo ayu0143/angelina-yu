@@ -39,6 +39,7 @@ p {
   font-size: 1em;
   font-family: 'Sen';
 	color: #AEF3E7;
+	padding: 20px;
 }
 
 h1,
@@ -50,6 +51,7 @@ h5 {
   font-weight: true;
   line-height: 1.15;
 	color: #8EE3EF;
+	padding: 20px;
 }
 
 h1 {
